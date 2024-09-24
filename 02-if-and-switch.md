@@ -32,7 +32,7 @@ That's All Folks!!!
 11 / 3 = 3.67
 ```
 
-### 04-if-statement
+### 04-*if*-statement
 
 Escreva um programa que permita saber qual a taxa de imposto a aplicar a um determinado estado civil, usando apenas instruções *if* para determinar o valor da taxa.
 
@@ -59,7 +59,7 @@ ou
 Estado: U | Taxa: 10.50
 ```
 
-### 05-switch-statement
+### 05-*switch*-statement
 
 Escreva um programa que permita saber qual a taxa de imposto a aplicar a um determinado estado civil, usando apenas a instrução ***switch (com breaks)*** para determinar o valor da taxa a aplicar.
 
@@ -86,7 +86,7 @@ ou
 Estado: U | Taxa: 10.50
 ```
 
-### 06-switch-statement (sem *break*s)
+### 06-*switch*-statement (no *breaks*)
 
 Escreva um programa que permita saber qual a taxa de imposto a aplicar a um determinado estado civil, usando apenas a instrução *switch* ***<u>sem usar qualquer break</u>*** para determinar o valor da taxa.
 
