@@ -1,4 +1,4 @@
-# Exercícios if e switch
+# Exercícios *if* e *switch*
 
 ### 01-hello-world
 - Escreva o programa que gere o seguinte output:
