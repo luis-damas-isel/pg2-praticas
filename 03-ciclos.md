@@ -1,7 +1,7 @@
 # Exercícios sobre ciclos e funções
 
 ### 01-square
-- Escreva um programa que leia um inteiro *n* e mostre um quadrado com *n* asteriscos de lado
+1.0. Escreva um programa que leia um inteiro *n* e mostre um quadrado com *n* asteriscos de lado
 
   **Para input: [lado=2]  o output esperado é:**
   ```
