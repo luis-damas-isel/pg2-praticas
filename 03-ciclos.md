@@ -117,13 +117,13 @@ void triangle(int size, int ch)
 
    `Exemplo para size=5 e ch ='$' `
 
-    ``` 
+  ```
     $$$$$$$$$
      $$$$$$$
       $$$$$
        $$$
         $
-    ```
+  ```
 
 2.10. Escreva a função **lozenge** que mostra um losango de dimensão **size**.
 
