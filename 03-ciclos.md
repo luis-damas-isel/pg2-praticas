@@ -37,13 +37,12 @@ Implemente as seguintes funções em C
 2.2. Mostra um retângulo com **[rows]** linhas por **[cols]** colunas.
 
    `Exemplo para rows=3, cols=5 e ch='='`
-
-   `=====`
-
-   `=====`
-
-   `=====`
-
+  ```
+   =====
+   =====
+   =====
+  ```
+ 
 ```
 void rectangle(int rows, int cols, int ch)
 {
@@ -64,11 +63,11 @@ void square(int size, int ch)
 2.4. Mostra no ecrã um triângulo com dois lados com dimensão **[size]**. Um dos lados está encostado à esquerda. 
 
    Exemplo para size=3 e ch ='@' 
-   `@`
-
-   `@@`
-
-   `@@@`
+```
+@
+@@
+@@@
+```
 
 ```
 void triangle(int size, int ch)
@@ -83,9 +82,10 @@ void triangle(int size, int ch)
 
    `line(3, '@', 0); line(2, '#', 0); line(3, '@', 1); line(8, '=', 1); `
 
-   `@@@##@@@`
-
-   `========`
+  ```
+@@@##@@@
+========
+  ```
 
 2.6. Reescreva o código das funções **rectangle**, **square** e **triangle** que escreveu no exercício anterior e ajuste-o de modo a usar a nova versão da função **line**.
 
